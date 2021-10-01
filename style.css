@@ -1,0 +1,89 @@
+ * {
+    margin: 0%;
+    padding: 0%; 
+}
+/* for backround pic */
+body{
+    background-image: url('back pic.jpg');
+}
+
+.header{
+    background-color: brown;
+    width: 100%;
+    text-align: end;
+    padding: 20px;
+}
+.person-avatar{
+     image-resolution: 25px;
+     
+}
+
+
+.sidebar{
+    background-color: rgba(216, 106, 106, 0.24);
+    /* border: 1px solid black; */
+    height: max-content;
+    width: max-content;
+    padding-right: 50px;
+    /* margin-right: 50px; */
+    padding-left: 50px;
+    text-align: center;
+}
+.mid-header{
+    background-color: rgba(0, 0, 0, 0);
+    /* border: 1px solid black; */
+    width: 60%;
+    
+}
+.home-heading{
+    /* border: 1px solid black; */
+    font-size: 48px;
+   text-align: center;
+}
+.home-2subheading{
+    /* border: 1px solid black; */
+    font-size: 36px;
+   text-align: center;
+}
+
+/* for avatar pictur */
+.person-avatar {
+   width: 200px;
+   border-radius: 90px;
+  border: 1px solid black;
+    margin-top: 20px;
+}
+.person-content{
+    
+    /* border: 1px solid black; */
+    margin-top: 2px;
+}
+.contactinfo2{
+    margin-right: 15px;
+}
+
+.footer{
+    background-color: brown;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.carousel{
+    margin-top: 150px;
+    /* border: 1px  solid black; */
+  
+
+}
+/* hidemywork */
+.heddin{
+    display: none;
+}
+/* hide aboutme */
+.hide{
+    display: none;
+}
+
+
+
